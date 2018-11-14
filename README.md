@@ -1,10 +1,2 @@
-# 南开大学CTF战队
-Nankai University CTF Teams
-
-## 参加比赛情况
-### 2018年
-- 2018-11-23: 2018年“百鹭杯”大学生网络空间安全精英赛， 陶龙、佘崧林、刘一静
--
--
--
-
+# nkamg_ctf
+Nankai University CTF Team
